@@ -17,7 +17,7 @@ $ sudo chmod +x ./vmnet-shark
 
 ## Usage
 
-**NOTE**: VMware Fusion 11 Pro added a feature for renaming custom networks. The ```vmnet-shark``` tool only supports the default vmnet (e.g., vmnet0, vmnet1, vmnet2, etc.) name format.
+> **Note**: VMware Fusion 11 Pro added a feature for renaming custom networks. The ```vmnet-shark``` tool only supports the default vmnet (e.g., vmnet0, vmnet1, vmnet2, etc.) name format.
 
 <img src="https://res.cloudinary.com/binarynature/image/upload/v1552871719/top-triple-ioxrv-vmnet11_yfhh7n.png" width="330" height="250">
 
@@ -31,9 +31,8 @@ $ vmnet-shark vmnet11
 
 ## Reference
 
-[VMware Fusion 11 - Creating Custom Networks](https://docs.vmware.com/en/VMware-Fusion/11/com.vmware.fusion.using.doc/GUID-C5837B81-9509-4F1B-9572-0EC0CFA87563.html)
-
-[Real-time vmnet packet capture and display for VMware Fusion](https://binarynature.blogspot.com/2015/05/real-time-vmnet-packet-capture-display-vmware-fusion.html)
+* [VMware Fusion 11 - Creating Custom Networks](https://docs.vmware.com/en/VMware-Fusion/11/com.vmware.fusion.using.doc/GUID-C5837B81-9509-4F1B-9572-0EC0CFA87563.html)
+* [Real-time vmnet packet capture and display for VMware Fusion](https://binarynature.blogspot.com/2015/05/real-time-vmnet-packet-capture-display-vmware-fusion.html)
 
 ## License
 
