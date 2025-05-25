@@ -54,7 +54,7 @@ start_vmnet_sniffer()
 }
 
 ## File locations (default)
-wspath='/usr/local/bin/wireshark'
+wspath='/Applications/Wireshark.app/Contents/MacOS/wireshark'
 vmsniff='/Applications/VMware Fusion.app/Contents/Library/vmnet-sniffer'
 vmnetpref='/Library/Preferences/VMware Fusion/networking'
 
