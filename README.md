@@ -32,7 +32,7 @@ $ vmnet-shark vmnet11
 ## Reference
 
 * [VMware Fusion 11 - Creating Custom Networks](https://docs.vmware.com/en/VMware-Fusion/11/com.vmware.fusion.using.doc/GUID-C5837B81-9509-4F1B-9572-0EC0CFA87563.html)
-* [Real-time vmnet packet capture and display for VMware Fusion](https://binarynature.blogspot.com/2015/05/real-time-vmnet-packet-capture-display-vmware-fusion.html)
+* [Real-time VMnet packet capture and display for VMware Fusion](https://marcstech.blog/archives/real-time-vmnet-packet-capture-display-vmware-fusion)
 
 ## License
 
